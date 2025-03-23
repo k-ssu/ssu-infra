@@ -1,2 +1,2 @@
 # ssu-infra
-Infrastructure configured with terraform
+AWS EKS Infrastructure in Terraform
